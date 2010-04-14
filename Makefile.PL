@@ -17,6 +17,6 @@ WriteMakefile(
         'Crypt::Rijndael'            => '0',
         'JSON::XS::VersionOneAndTwo' => '0',
         'MIME::Base64'               => '0',
-        'NEXT'                       => '0',
+        'MRO::Compat'                => '0',
     },
 );
